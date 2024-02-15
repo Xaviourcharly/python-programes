@@ -1,0 +1,5 @@
+name=(input("Enter the Account Holder Name:"))
+number=(input("Enter the Account Number"))
+print("ACCOUNT DETAILS")
+print("Account Holder:",name)
+print("Account Number:",number)
